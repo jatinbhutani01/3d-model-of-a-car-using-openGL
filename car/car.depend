@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1515762361 source:c:\users\jatin\desktop\car\main.cpp
+	<bits/stdc++.h>
+	<GL/glut.h>
+	<math.h>
+	<dos.h>
+	<time.h>
+
+1511624625 source:i:\car\main.cpp
+	<bits/stdc++.h>
+	<GL/glut.h>
+	<dos.h>
+
+1511799446 source:j:\car\main.cpp
+	<bits/stdc++.h>
+	<GL/glut.h>
+	<math.h>
+	<dos.h>
+
+1511843810 source:c:\users\user\desktop\car\main.cpp
+	<bits/stdc++.h>
+	<GL/glut.h>
+	<math.h>
+	<dos.h>
+
